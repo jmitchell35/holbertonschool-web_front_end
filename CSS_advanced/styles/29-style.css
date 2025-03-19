@@ -389,8 +389,6 @@
       --line-height-small: 1.2;
       --line-height-base: 1.5;
       --line-height-big: 1.8;
-
-      --nav-item-link-hover: var(--color-white);
       
       --section-header-align: center;
       --section-tagline-transform: uppercase;
@@ -411,7 +409,7 @@
       --nav-item-letter-spacing: 0.04rem;
       --nav-item-display: inline-block;
       --nav-item-margin: 0 0 3rem 0;
-      --nav-item-link-hover: var(--color-primary);
+      --nav-item-link-hover: var(--color-white);
       
       --button-display: inline-block;
       --button-padding: 1.5rem 3rem;
